@@ -5,6 +5,8 @@
 # Otherwise give an error
 
 class Application 
+  @@cart = [] 
+  
   
 end 
 
