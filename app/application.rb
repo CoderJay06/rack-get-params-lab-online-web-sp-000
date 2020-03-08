@@ -4,7 +4,9 @@
 # This should check to see if that item is in `@@items` and then add it to the cart if it is. 
 # Otherwise give an error
 
-
+class Application 
+  
+end 
 
 
 
