@@ -8,7 +8,9 @@ class Application
   @@cart = [] 
   
   
-  def c
+  def call(env) 
+    
+  end 
   
 end 
 
