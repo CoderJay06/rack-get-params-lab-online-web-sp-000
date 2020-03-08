@@ -8,6 +8,8 @@ class Application
   @@cart = [] 
   
   
+  def c
+  
 end 
 
 
